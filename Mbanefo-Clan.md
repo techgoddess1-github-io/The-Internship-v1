@@ -10,5 +10,5 @@ ___
 Name <br/>
 Track
 ____
-Name:Oparaocha Frances Ezinwa <br/>
-Track: Front End Web
+ Oparaocha Frances Ezinwa <br/>
+ Front End Web
